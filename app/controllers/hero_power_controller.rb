@@ -1,0 +1,2 @@
+class HeroPowerController < ApplicationController
+end
